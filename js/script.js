@@ -3,7 +3,7 @@ var typed = new Typed(".typing", {
 	strings: [
 		"",
 		"Web Designer",
-		"Web Developer",
+		"Full Stack Developer",
 		"Graphic Designer",
 		"Programmer",
 	],
